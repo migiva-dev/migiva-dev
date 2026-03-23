@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Miguel Gavilá Ibáñez
 
-<!--
-**migiva-dev/migiva-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Desarrollador de Aplicaciones Web (DAW) | Técnico Informático
 
-Here are some ideas to get you started:
+¡Bienvenido a mi perfil de GitHub! Me apasiona la tecnología, el desarrollo web y la resolución de problemas técnicos. Actualmente me estoy especializando en el desarrollo de aplicaciones modernas y escalables.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+* **Frontend:** HTML5, CSS3 (Grid/Flexbox), JavaScript, React.
+* **Backend:** PHP, Laravel, SQL.
+* **Sistemas:** Windows Server, Active Directory, Virtualización, Docker.
+* **Herramientas:** Git, GitHub, VS Code.
+
+---
+
+### 📂 Proyectos Destacados
+
+* **[Personal-cv](https://github.com/migiva-dev/Personal-cv):** Currículum interactivo optimizado para impresión A4.
+* **[Docker-Dockercompose-Miguel](https://github.com/migiva-dev/Docker-Dockercompose-Miguel):** Configuraciones de contenedores y despliegues.
+
+---
+
+### 📫 Contacto
+
+* 📧 **Email:** miguelgavilaibanez@gmail.com
+* 💼 **LinkedIn:** [Tu perfil de LinkedIn aquí]
+
+---
+
+#### ⚡ Dato curioso
+Me considero una persona constante, responsable y siempre dispuesta a aprender nuevas tecnologías del ecosistema web.
