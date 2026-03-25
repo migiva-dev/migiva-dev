@@ -29,7 +29,7 @@ Me considero una persona constante y responsable, con una fuerte orientación al
 
 ## Proyectos destacados
 
-### 📄 [Personal-cv](https://github.com/migiva-dev/Personal-cv)
+### 📄 [Portfolio](https://migiva-dev.github.io/Portafolio/)
 Diseño de currículum profesional interactivo.
 * **Tecnologías:** HTML5, CSS Grid/Flexbox.
 * **Hito:** Optimización *Pixel Perfect* para impresión A4 y uso de variables CSS para escalabilidad.
@@ -58,7 +58,7 @@ Repositorio de aprendizaje y despliegue de contenedores.
 
 ## Contacto
 
-🌐 **Web:** [migiva-dev.github.io/Personal-cv/](https://migiva-dev.github.io/Personal-cv/)  
+🌐 **Web:** [migiva-dev.github.io/Portafolio/](https://migiva-dev.github.io/Portafolio/)  
 ✉️ **Email:** miguelgavilaibanez@gmail.com  
 🐙 **GitHub:** [github.com/migiva-dev](https://github.com/migiva-dev)
 
