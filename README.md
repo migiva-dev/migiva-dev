@@ -1,65 +1,78 @@
-#  Miguel Gavilá Ibáñez
+
+# Miguel Gavilá Ibáñez
 
 ### 👨‍💻 Desarrollador Web en formación · 🛠️ Técnico Informático · 🚀 Entusiasta de la automatización
 
+---
 
 ## Sobre mí
 
-Soy estudiante de **Grado Superior en Desarrollo de Aplicaciones Web (DAW)** y cuento con experiencia previa como **Técnico de Sistemas (SMR)**. Mi enfoque combina el montaje y mantenimiento de infraestructura física con la creación de soluciones digitales modernas.
+Soy estudiante de **Grado Superior en Desarrollo de Aplicaciones Web (DAW)** con formación previa en **Sistemas Microinformáticos y Redes (SMR)**. Mi perfil combina una base sólida en sistemas, redes y hardware con el desarrollo de aplicaciones web modernas, lo que me permite entender y controlar todo el ciclo de vida de un proyecto tecnológico.
 
-Me considero una persona constante y responsable, con una fuerte orientación al **trabajo en equipo** y la **resolución de problemas**. Mi objetivo es seguir creciendo en el ecosistema del desarrollo Fullstack, aplicando buenas prácticas de código y manteniendo un control total sobre el despliegue de mis proyectos.
+Me interesa especialmente el desarrollo **Fullstack**, no solo desde el punto de vista del código, sino también desde la arquitectura, el despliegue y la optimización. Disfruto construyendo proyectos reales donde puedo aplicar buenas prácticas, escribir código limpio y crear soluciones eficientes y escalables.
+
+A lo largo de mi formación, he desarrollado una mentalidad orientada a la **resolución de problemas**, el **aprendizaje continuo** y el trabajo con tecnologías actuales. Valoro el orden, la documentación y la claridad en el código, entendiendo que un buen desarrollo no solo funciona, sino que también es mantenible y comprensible.
+
+Mi objetivo es seguir creciendo como desarrollador, participando en proyectos donde pueda aportar valor desde una visión técnica completa: desde la infraestructura hasta la experiencia final del usuario.
 
 ---
 
-## Áreas de estudio y trabajo
+## Áreas de especialización
 
 ### 💻 Desarrollo Web (Frontend & Backend)
-* **Lenguajes:** HTML5, CSS3, JavaScript (ES6+), PHP.
-* **Frameworks & Librerías:** React, Laravel.
-* **Bases de datos:** SQL (MySQL, PostgreSQL, SQLite).
-* **Control de versiones:** Git y flujo de trabajo en GitHub.
+- **Lenguajes:** HTML5, CSS3, JavaScript (ES6+), PHP  
+- **Frameworks & Librerías:** React, Laravel  
+- **Bases de datos:** MySQL, PostgreSQL, SQLite  
+- **Control de versiones:** Git + GitHub  
 
 ### ⚙️ Sistemas y Soporte IT
-* **Sistemas Operativos:** Windows Server, Active Directory, Ubuntu Desktop/Server.
-* **Virtualización:** Docker, VMware, VirtualBox.
-* **Hardware:** Mantenimiento integral de equipos, diagnóstico de averías e instalaciones de red.
-* **Productividad:** Dominio avanzado de Microsoft Office 365.
+- **Sistemas Operativos:** Windows Server, Active Directory, Ubuntu (Desktop & Server)  
+- **Virtualización:** Docker, VMware, VirtualBox  
+- **Hardware:** Diagnóstico, mantenimiento e instalación de equipos y redes  
+- **Productividad:** Microsoft Office 365  
 
 ---
 
 ## Proyectos destacados
 
-### 📄 [Portfolio](https://migiva-dev.github.io/Portafolio/)
-Diseño de currículum profesional interactivo.
-* **Tecnologías:** HTML5, CSS Grid/Flexbox.
-* **Hito:** Optimización *Pixel Perfect* para impresión A4 y uso de variables CSS para escalabilidad.
+### 🌐 [Portfolio](https://migiva-dev.github.io/Portafolio/)
+Sitio web personal donde presento mis proyectos, habilidades y evolución como desarrollador.
+
+- **Tecnologías:** HTML5, CSS Grid, Flexbox  
+- **Hito:** Diseño responsive y escalable mediante variables CSS, con especial atención a la estructura visual y la experiencia de usuario  
+
+---
 
 ### 🐳 [Docker-Dockercompose-Miguel](https://github.com/migiva-dev/Docker-Dockercompose-Miguel)
-Repositorio de aprendizaje y despliegue de contenedores.
-* **Enfoque:** Configuración de entornos aislados para desarrollo web y servicios de backend.
+Repositorio orientado al aprendizaje y despliegue de entornos contenerizados.
+
+- **Enfoque:** Creación y gestión de entornos aislados para desarrollo web y servicios backend  
+- **Objetivo:** Entender y aplicar buenas prácticas en despliegue y configuración  
 
 ---
 
 ## Filosofía de aprendizaje
 
-📌 **Aprender haciendo:** Cada línea de código es una oportunidad para entender el sistema completo.
-📌 **Orden y Documentación:** Un proyecto no está terminado si no es legible para otros.
-📌 **Mejora continua:** De SMR a DAW, evolucionando del hardware al software.
+📌 **Aprender haciendo:** Construir proyectos reales para entender cada capa del sistema  
+📌 **Código limpio y mantenible:** Escribir pensando en el futuro (y en otros desarrolladores)  
+📌 **Evolución constante:** De sistemas a desarrollo, integrando ambos mundos  
 
 ---
 
 ## Tecnologías habituales
 
 `HTML5` · `CSS3` · `JavaScript` · `PHP` · `SQL`  
-`Git` · `Docker` · `Windows Server` · `Linux`  
+`Git` · `Docker` · `Linux` · `Windows Server`  
 `React` · `Laravel` · `VS Code`
 
 ---
 
 ## Contacto
 
-🌐 **Web:** [migiva-dev.github.io/Portafolio/](https://migiva-dev.github.io/Portafolio/)  
+🌐 **Web:** https://migiva-dev.github.io/Portafolio/  
 ✉️ **Email:** miguelgavilaibanez@gmail.com  
-🐙 **GitHub:** [github.com/migiva-dev](https://github.com/migiva-dev)
+🐙 **GitHub:** https://github.com/migiva-dev  
 
-*"Transformando el hardware en código, paso a paso."*
+---
+
+*"Transformando ideas en soluciones digitales, paso a paso."*
