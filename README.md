@@ -43,12 +43,14 @@ Sitio web personal donde presento mis proyectos, habilidades y evolución como d
 
 ---
 
-### 🐳 [Docker-Dockercompose-Miguel](https://github.com/migiva-dev/Docker-Dockercompose-Miguel)
-Repositorio orientado al aprendizaje y despliegue de entornos contenerizados.
+### 📅 [Rutinapp](https://migiva-dev.github.io/rutinapp/index.html)
 
-- **Enfoque:** Creación y gestión de entornos aislados para desarrollo web y servicios backend  
-- **Objetivo:** Entender y aplicar buenas prácticas en despliegue y configuración  
+Aplicación web de planificación de hábitos y rutinas diarias, desarrollada íntegramente sin frameworks ni dependencias externas.
 
+- **Tecnologías:** HTML5, CSS3, JavaScript Vanilla, Web Storage API.
+- **Funcionalidades:** Seguimiento de hábitos diarios, rachas automáticas, estadísticas en tiempo real, mapa de calor semanal, modo claro/oscuro y pantalla de bienvenida personalizada con persistencia local.
+- **Hito:** Aplicación completamente funcional en un solo archivo HTML, sin servidor ni base de datos, con una interfaz moderna y experiencia de usuario cuidada.
+  
 ---
 
 ## Filosofía de aprendizaje
